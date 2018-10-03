@@ -1,1 +1,5 @@
 # temp
+
+
+requirements 
+- wamp server
